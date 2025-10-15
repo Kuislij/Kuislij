@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Kuislij
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋Hiii! I'm Kuislij! :D
 
-<!---
-Kuislij/Kuislij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Miku gif](https://media1.tenor.com/m/FZZqna91PwQAAAAC/miku-hatsune-miku.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuislij&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuislij&langs_count=6&layout=compact&theme=radical)
+
+- 👀 I’m interested in Web Programming, Information security and Product programming!
+- 🌱 I’m currently learning Python, Assembler (mASM32)
+- 😄 Pronouns: He/Him
+- ❤️ I love Miku! >_<
+- 🐧 I'm using Arch, btw
